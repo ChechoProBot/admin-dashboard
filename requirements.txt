@@ -1,0 +1,8 @@
+streamlit
+fpdf
+pywhatkit
+matplotlib
+yagmail
+pandas
+numpy
+Pillow
